@@ -1,7 +1,5 @@
 # 📱 Mobile AR Viewer for Dynamic 3D Model Iterations
 
-*(Placeholder: Drag and drop your ar_demo.gif here!)*
-
 ## 📌 Project Overview
 Complex, iterative 3D models—such as topology optimizations and structural meshes—lose critical spatial context when reviewed on 2D monitors. This mobile Augmented Reality application bridges that gap, allowing engineers to anchor sequences of high-poly STL files in physical space and dynamically simulate their structural evolution at real-world scale.
 
